@@ -33,9 +33,12 @@ C:\Users\nirma\source\repos\asp.net-core\EFCodeFirstApproachDemp\EFCodeFirstAppr
 C:\Users\nirma\source\repos\asp.net-core\EFCodeFirstApproachDemp\EFCodeFirstApproachDemp\obj\Debug\netcoreapp2.1\EFCodeFirstApproachDemp.pdb
 C:\Users\nirma\source\repos\asp.net-core\EFCodeFirstApproachDemp\EFCodeFirstApproachDemp\obj\Debug\netcoreapp2.1\EFCodeFirstApproachDemp.genruntimeconfig.cache
 C:\Users\nirma\source\repos\asp.net-core\EFCodeFirstApproachDemp\EFCodeFirstApproachDemp\obj\Debug\netcoreapp2.1\EFCodeFirstApproachDemp.csproj.CopyComplete
-C:\Users\nirma\source\repos\asp.net-core\EFCodeFirstApproachDemp\EFCodeFirstApproachDemp\obj\Debug\netcoreapp2.1\EFCodeFirstApproachDemp.csproj.CoreCompileInputs.cache
 C:\Users\nirma\source\repos\asp.net-core\EFCodeFirstApproachDemp\EFCodeFirstApproachDemp\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Create.cshtml.g.cs
 C:\Users\nirma\source\repos\asp.net-core\EFCodeFirstApproachDemp\EFCodeFirstApproachDemp\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Delete.cshtml.g.cs
 C:\Users\nirma\source\repos\asp.net-core\EFCodeFirstApproachDemp\EFCodeFirstApproachDemp\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Details.cshtml.g.cs
 C:\Users\nirma\source\repos\asp.net-core\EFCodeFirstApproachDemp\EFCodeFirstApproachDemp\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Edit.cshtml.g.cs
 C:\Users\nirma\source\repos\asp.net-core\EFCodeFirstApproachDemp\EFCodeFirstApproachDemp\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\nirma\source\repos\asp.net-core\EFCodeFirstApproachDemp\EFCodeFirstApproachDemp\bin\Debug\netcoreapp2.1\NLog.Config
+C:\Users\nirma\source\repos\asp.net-core\EFCodeFirstApproachDemp\EFCodeFirstApproachDemp\obj\Debug\netcoreapp2.1\EFCodeFirstApproachDemp.csproj.CoreCompileInputs.cache
+C:\Users\nirma\source\repos\asp.net-core\EFCodeFirstApproachDemp\EFCodeFirstApproachDemp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\nirma\source\repos\asp.net-core\EFCodeFirstApproachDemp\EFCodeFirstApproachDemp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
